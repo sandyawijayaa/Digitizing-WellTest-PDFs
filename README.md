@@ -18,3 +18,5 @@ The end product is an accurate database of subsurface pressure and temperature i
 ### Miscellaneous achievements
 - Function to score how many words detected _([Gio] function to get % of words detected.ipynb)_
 - Notebook to choose pages from PDF _([Sandya] pdf_to_needed_table_image.ipynb)_
+
+#### Collaborators: Sandya Wijaya, Giovanni Hernandez, Peiying Guan
