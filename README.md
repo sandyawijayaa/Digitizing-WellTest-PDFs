@@ -1,4 +1,4 @@
-# Digitizing-BOEM
+# Digitizing Well-test Pressure PDF Reports into Machine-readable Information
 FA'23 Project with Bureau of Ocean Management (BOEM) through Discovery Research Program at UC Berkeley
 
 ## Project Objective
